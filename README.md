@@ -94,7 +94,7 @@ If you like this project, leave a ⭐ on [GitHub](https://github.com/hardik44ss/
 
 ## 📝 License
 
-This project is open source. [Add your license here if applicable.]
+This project is open source.
 
 ---
 
